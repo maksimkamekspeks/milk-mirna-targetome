@@ -1,7 +1,5 @@
 # Milk Exosomal microRNA Targetome — Analysis Pipeline
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21287121.svg)](https://doi.org/10.5281/zenodo.21287121)
-
 Code to reproduce the analyses and figures of:
 
 > **Conserved Core and Species-Specific Signatures in the Milk Exosomal microRNA Targetome: A Comparative In Silico Analysis of Human, Cow, Goat and Donkey Milk.**
@@ -177,5 +175,4 @@ Released under the MIT License (add a LICENSE file before publishing).
 
 ## Citation
 
-If you use this code, please cite the associated article and this archive:
-Zenodo, https://doi.org/10.5281/zenodo.21287121 (see CITATION.cff).
+If you use this code, please cite the associated article.
