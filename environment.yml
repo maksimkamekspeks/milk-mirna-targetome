@@ -1,0 +1,19 @@
+name: milk-mirna-targetome
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python>=3.9
+  - pandas>=1.5
+  - numpy>=1.23
+  - scipy>=1.9
+  - matplotlib>=3.6
+  - seaborn>=0.12
+  - openpyxl>=3.1
+  - pip
+  # --- Step 0 (read preparation) ---
+  - sra-tools        # prefetch, fasterq-dump
+  - cutadapt         # adapter trimming
+  - bowtie           # alignment to miRBase
+  - pip:
+      - gseapy>=1.0
