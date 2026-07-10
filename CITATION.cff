@@ -4,7 +4,6 @@ title: "Milk Exosomal microRNA Targetome — Analysis Pipeline"
 abstract: "Code to reconstruct an abundance-weighted, multi-evidence (mirDIP + TarBase v9) cross-species targetome of human, cow, goat and donkey milk exosomal microRNAs and to reproduce the figures of the associated article."
 type: software
 version: "1.0.0"
-doi: 10.5281/zenodo.21287121
 date-released: 2026-07-10
 license: MIT
 url: "https://github.com/maksimkamekspeks/milk-mirna-targetome"
